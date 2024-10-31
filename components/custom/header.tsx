@@ -2,12 +2,10 @@ import React from "react";
 import { FloatingDock } from "@/components/ui/floating-dock";
 import {
   IconBrandGithub,
-  IconBrandX,
-  IconExchange,
+
   IconHome,
   IconNewSection,
-  IconTerminal2,
-  IconPlayCard,
+
   IconPlayerPlay,
 } from "@tabler/icons-react";
 import Image from "next/image";

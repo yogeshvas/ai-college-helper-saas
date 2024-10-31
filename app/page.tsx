@@ -1,9 +1,8 @@
-import Image from "next/image";
+
 import appScreenshot from "./assets/ss.jpeg";
 import Iphone15Pro from "@/components/ui/iphone-15-pro";
 import { AnimatedGradientTextDemo } from "@/components/mvp";
-import HyperText from "@/components/ui/hyper-text";
-import SparklesText from "@/components/ui/sparkles-text";
+
 import { RainbowButton } from "@/components/ui/rainbow-button";
 import { DownloadStats } from "@/components/custom/stats";
 export default function Home() {

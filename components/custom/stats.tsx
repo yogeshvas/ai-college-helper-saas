@@ -1,10 +1,8 @@
-import HyperText from "../ui/hyper-text";
-
 export function DownloadStats() {
   return (
     <>
       <div className="flex gap-2 items-center">
-        {/* <HyperText text="400+" />
+    {/* <HyperText text="400+" />
         <div>Downloads</div> */}
         {/* <div className="rounded-full bg-slate-900">|</div> */}
         <div className="flex items-center gap-2 justify-center">
